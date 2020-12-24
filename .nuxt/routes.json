@@ -3,14 +3,12 @@
     "name": "home",
     "path": "/home",
     "component": "D:\\\\nuxt\\\\DearDiary\\\\pages\\\\home\\\\index.vue",
-    "chunkName": "pages/home/index",
-    "_name": "_4ee0c269"
+    "chunkName": "pages/home/index"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\nuxt\\\\DearDiary\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_dfdc2ab0"
+    "chunkName": "pages/index"
   }
 ]
